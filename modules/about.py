@@ -12,8 +12,7 @@ def show():
 
     ### 👤 作者简介
 
-    - **姓名**：陈昊
-    - **学校**：岭南师范学院 数据科学与大数据技术专业
+    - **姓名**：Ahao
     - **邮箱**：Chan7728@outlook.com
     - **GitHub**：[github.com/Ahao728](https://github.com/Ahao728) 
     - **项目时间**：2025年4月
