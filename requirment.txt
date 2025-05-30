@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+pandas
+plotly
+matplotlib
+wordcloud
+Seaborn
+pyecharts
